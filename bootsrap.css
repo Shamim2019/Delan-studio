@@ -1,0 +1,20 @@
+ .landing{
+   text-align: center;
+    background-image:url(./background_image-removebg-preview\ \(3\).png);
+    max-width: 600px;
+    min-height: 300px;
+    color: white; 
+    justify-content: left;
+    transition: cubic-bezier(0.55, 0.085, 0.68, 0.53);
+ }
+
+  /* .aboutus{
+    text-align: center;
+  } */
+  .services{
+    background-image:url(./s_image-removebg-preview.png);
+    text-align: center;
+    max-width:600px ;
+    min-height:200px ;
+    color: white;
+  }
