@@ -1,4 +1,4 @@
- .landing{
+ /* .landing{
    text-align: center;
     background-image:url(./background_image-removebg-preview\ \(3\).png);
     max-width: 600px;
@@ -63,7 +63,7 @@ input[type=submit] {
 
 } 
  .what-we-do{
-   text-align: center;
+  
    margin-left: auto;
     margin-right: auto;
    display: grid;
@@ -77,8 +77,19 @@ input[type=submit] {
   background-image: url(./c_image.jpg);
  
 } 
-   h7{
+   /* h7{
     text-align: right;
     font-size: large;
   
-   }
+   } */
+
+#design-text{
+  display: none;
+}
+#development-text{
+  display: none;
+  
+}
+#product-text{
+  display: none;
+} */

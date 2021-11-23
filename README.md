@@ -9,12 +9,12 @@ This project is a web application for Delani studio that shows details about the
 
 
 ### Live Page
-
+https://shamim2019.github.io/Delan-studio/
 
 ### Installation / Setup instruction
 Open Terminal {Ctrl+Alt+T}
 
-git clone 
+git clone git@github.com:Shamim2019/Delan-studio.git
 
 cd Delani-Studio
 
